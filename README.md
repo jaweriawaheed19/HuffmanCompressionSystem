@@ -98,8 +98,6 @@ The system supports:
 5) Exit
 ```
 
----
-
 ## 📄 Generated Files
 
 ### encoded.txt
@@ -131,8 +129,6 @@ Example:
     \-- c(30)
 ```
 
----
-
 ## 📊 Compression Statistics
 
 The system displays:
@@ -143,8 +139,6 @@ The system displays:
 - Compressed bit count
 - Average bits per character
 - Compression ratio (%)
-
----
 
 ## 📈 Time Complexity
 
