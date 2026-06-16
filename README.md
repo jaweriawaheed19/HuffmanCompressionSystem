@@ -77,10 +77,13 @@ The system supports:
 
 ```text
 .
-├── main.cpp
+├── source.cpp
+├── DSA.sln
 ├── encoded.txt
 ├── decoded.txt
 ├── huffman_tree.txt
+├── input1.txt
+├── input2.txt
 └── README.md
 ```
 
@@ -139,36 +142,6 @@ The system displays:
 - Compressed bit count
 - Average bits per character
 - Compression ratio (%)
-
-## 📈 Time Complexity
-
-### Building Frequency Table
-
-```text
-O(n)
-```
-
-### Building Huffman Tree
-
-```text
-O(n log n)
-```
-
-### Encoding
-
-```text
-O(n)
-```
-
-### Decoding
-
-```text
-O(n)
-```
-
-Where:
-
-- n = Number of characters in the input text
 
 ## 🎯 Learning Outcomes
 
