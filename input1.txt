@@ -1,0 +1,5 @@
+Data compression reduces file size by encoding information efficiently.
+Lossless compression restores the exact original data.
+
+Common methods detect patterns and repeated sequences.
+Good decompression reverses the process accurately.
